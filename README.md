@@ -54,10 +54,14 @@ Secure KYC verification system with DIY integration and Google API services
 Blockchain-based decentralized voting system ensuring transparency and vote integrity
 - **Tech**: Web3.js, Ethereum Smart Contracts, JavaScript
 
-### 📊 GitHub Stats
+### 📊 GitHub Overview
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Xavious2604&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xavious2604&layout=compact&theme=radical)
+| Metric | Value |
+|--------|-------|
+| 🎯 Public Repositories | 10+ |
+| 💻 Primary Languages | C#, JavaScript, Vue.js |
+| 🌟 Focus Areas | ERP Development, BPM Automation |
+| 📈 Active Projects | TaskDesk, BPM Workflow, KYC API |
 
 ### 🎓 Education & Certifications
 - **B.E. in Information Technology** - Mumbai University (2022-2025)
