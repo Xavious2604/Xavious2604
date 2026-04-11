@@ -1,83 +1,80 @@
 # 👋 Hi, I'm Mohammed Irfan Shaikh
 
-## 🚀 ERP Developer | Full-Stack Developer | BPM Automation Specialist
+## 🚀 .NET Full Stack Developer | Vue.js + .NET Core + SQL Server
 
-Results-driven ERP Developer with expertise in enterprise application development, BPM workflow automation, and full-stack development. Currently working at **Sensys Technologies Pvt. Ltd.**, building scalable solutions for business process management, KYC verification systems, and task management platforms.
+Building enterprise BPM, KYC, and HR onboarding systems live in production at **Godrej, BSE, Dolat Capital, and 40+ business clients** at Sensys Technologies. Past collaborator on Intellidea engagements with senior fintech leadership. Open to .NET Full Stack Developer roles in UAE and remote enterprise positions.
 
 ### 💼 Current Role
-**ERP Developer** at Sensys Technologies Pvt. Ltd. (Jun 2025 - Present)
-- Designing enterprise-grade BPM workflow systems with node-based architecture
-- Building KYC Verification APIs serving 24,000+ business clients
-- Developing TaskDesk project management system with Kanban boards
+
+**.NET Full Stack Developer** at Sensys Technologies Pvt. Ltd. (Jun 2025 – Present)
+
+- Architecting node-based BPM workflow designer with triggers, transitions, conditions, approval chains, version control, and recursive logic — deployed across enterprise clients including Godrej, BSE, and Dolat Capital
+- Building KYC Verification API integrating Aadhaar, UAN, and Bank Account verification with DIY, Google, and Tartan API services — serving 24,000+ business clients
+- Developing TaskDesk — a project management platform with Kanban boards, drag-and-drop, performance dashboards, and role-based access control
+- Leading Dynamic HR Onboarding system — drag-and-drop form builder (GridStack.js), multi-tenant DB, workflow approvals, document verification, letter templates, deployed to production with full test coverage
 
 ### 🛠️ Tech Stack
 
-**Backend & APIs**
-- .NET Core, ASP.NET, C#
-- REST APIs, Third-party Integrations
-- SQL Server, MySQL, SQLite
+**Backend**
+- C#, .NET Core 8, ASP.NET Web API
+- Entity Framework Core, SQL Server, T-SQL
+- REST APIs, XML/JSON processing
 
-**Frontend & Frameworks**
-- Vue.js, React, JavaScript (ES6+)
-- HTML5, CSS3, WordPress, WooCommerce
-- PrimeVue, React Three.js, Web3.js
+**Frontend**
+- Vue.js 3 (Composition API), JavaScript (ES6+)
+- HTML5, CSS3
+- GridStack.js, Monaco Editor, vueflow
 
-**Cloud & DevOps**
-- AWS (EC2, S3, Lambda, IAM)
-- Google Cloud (Compute Engine, Cloud Functions)
-- Git, Visual Studio, VS Code
+**Cloud & Tools**
+- Azure (App Service, SQL Database — deployed via employee-api repo)
+- Git, GitLab CI, Visual Studio, VS Code
 
 **Specializations**
-- ERP & BPM Workflow Automation
-- Enterprise Application Development
-- Database Optimization & Performance Tuning
-- XML/JSON Processing & Data Management
+- BPM Workflow Automation & Node-Based Architecture
+- KYC & Identity Verification API Integration
+- Multi-Tenant Enterprise Application Development
+- Database Optimization & Stored Procedure Tuning
 
 ### 🎯 Featured Projects
 
-#### 🔄 BPM Workflow System
-Enterprise-grade workflow automation with node-based designer, supporting levels, transitions, conditions, and approval workflows
-- **Tech**: Vue.js, .NET Core, SQL Server, XML/JSON
-- **Features**: Dynamic properties panel, version control, variable management
+#### 📋 TaskDesk — Project Management System
+Enterprise task management with Kanban boards, performance dashboards, and team collaboration. Built with Vue.js + .NET Core + SQL Server. Features drag-and-drop, work logs, subtasks, role-based access control, and compliance tracking. **In production at multiple Sensys enterprise clients.**
 
-#### 📋 TaskDesk Project Management System
-Comprehensive task management platform with Kanban boards and performance dashboards
-- **Tech**: Vue.js, .NET Core, SQL Server
-- **Features**: Drag-and-drop, work logs, role-based access control
+#### 🔐 KYC Validation API
+Full-stack KYC verification system for Aadhaar, PAN, and Bank Account validation with real-time API integration and production-ready security features. Built with .NET Core + REST APIs + SQL Server.
 
-#### 🔐 KYC Verification API
-Secure KYC verification system with DIY integration and Google API services
-- **Tech**: .NET Core, REST APIs, SQL Server
-- **Features**: Document verification, identity validation, compliance
+#### 🔄 BPM Workflow Designer
+Node-based visual workflow editor with triggers, transitions, conditions, approval chains, escalation paths, version control, and notifications. Built with Vue.js 3 (Composition API) + .NET Core + SQL Server with recursive logic and dynamic properties panels.
 
-#### 🗳️ DVote Horizon
-Blockchain-based decentralized voting system ensuring transparency and vote integrity
-- **Tech**: Web3.js, Ethereum Smart Contracts, JavaScript
+#### ⚙️ MiniProductsApi
+Clean ASP.NET Core 8 REST API demonstrating CRUD operations with layered architecture and Swagger documentation. Showcases backend best practices.
 
-### 📊 GitHub Overview
+#### 🏢 employee-api (Azure-deployed)
+RESTful API for employee management with full CRUD operations. Built with Node.js, Express.js, and Azure SQL Database. **Deployed on Azure App Service** with secure cloud architecture.
 
-| Metric | Value |
-|--------|-------|
-| 🎯 Public Repositories | 10+ |
-| 💻 Primary Languages | C#, JavaScript, Vue.js |
-| 🌟 Focus Areas | ERP Development, BPM Automation |
-| 📈 Active Projects | TaskDesk, BPM Workflow, KYC API |
+### 🎓 Education
 
-### 🎓 Education & Certifications
-- **B.E. in Information Technology** - Mumbai University (2022-2025)
-- **AWS Cloud Computing** - Amazon Web Services
-- **Google Cloud Compute Engine** - Load Balancing Implementation
-- **IBM Serverless Computing** - Cloud Functions Developer I
+- **B.E. in Information Technology** — Mumbai University (2022 – 2025)
+- **Diploma in Information Technology** — Maharashtra State Board of Technical Education (2019 – 2022)
+
+### 📚 Courses & Training
+
+- AWS Cloud Computing — Amazon Web Services
+- Implement Load Balancing on Compute Engine — Google Cloud
+- Serverless Computing using Cloud Functions, Developer I — IBM
 
 ### 📫 Connect with Me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-irfan-shaikh-2362a62a4/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:223171@theemcoe.org)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:if1905630109@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xavious2604)
 
-### 🌱 Currently Learning
-- Advanced React patterns (Hooks, Redux)
-- Cloud architecture & microservices
-- System design & scalability
+### 🌱 Currently Focused On
+
+- Advanced .NET Core patterns (clean architecture, CQRS, mediator)
+- System design for enterprise scale
+- Azure cloud-native architecture
 
 ---
-💡 *Open to freelance opportunities and collaboration on enterprise application projects*
+
+💼 *Open to .NET Full Stack Developer roles in UAE and remote enterprise positions. Let's connect.*
