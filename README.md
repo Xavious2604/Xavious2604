@@ -2,14 +2,14 @@
 
 ## 🚀 .NET Full Stack Developer | Vue.js + .NET Core + SQL Server
 
-Building enterprise BPM, KYC, and HR onboarding systems live in production at **Godrej, BSE, Dolat Capital, and 40+ business clients** at Sensys Technologies. Past collaborator on Intellidea engagements with senior fintech leadership. Open to .NET Full Stack Developer roles in UAE and remote enterprise positions.
+Building enterprise BPM, KYC, and HR onboarding systems live in production at **Godrej, BSE, Dolat Capital, and 40+ enterprise clients** at Sensys Technologies. Past collaborator on Intellidea engagements with senior fintech leadership. Open to .NET Full Stack Developer roles in UAE and remote enterprise positions.
 
 ### 💼 Current Role
 
 **.NET Full Stack Developer** at Sensys Technologies Pvt. Ltd. (Jun 2025 – Present)
 
 - Architecting node-based BPM workflow designer with triggers, transitions, conditions, approval chains, version control, and recursive logic — deployed across enterprise clients including Godrej, BSE, and Dolat Capital
-- Building KYC Verification API integrating Aadhaar, UAN, and Bank Account verification with DIY, Google, and Tartan API services — serving 24,000+ business clients
+- Building KYC Verification API integrating Aadhaar, UAN, and Bank Account verification with DIY, Google, and Tartan API services — used by enterprise clients for regulated customer onboarding
 - Developing TaskDesk — a project management platform with Kanban boards, drag-and-drop, performance dashboards, and role-based access control
 - Leading Dynamic HR Onboarding system — drag-and-drop form builder (GridStack.js), multi-tenant DB, workflow approvals, document verification, letter templates, deployed to production with full test coverage
 
